@@ -43,7 +43,7 @@ Here are some of my key skills and technologies:
 ## Contact 📬
 Feel free to reach out to me through the following channels:
 - **Email:** mihirchauhan951@gmail.com 📧
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/mihir-chauhan-017518208/)🔗
+- **LinkedIn:** - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihir-chauhan-017518208/)
 
 I'm always open to collaboration and new opportunities. Let's connect and build something amazing together!
 
