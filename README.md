@@ -36,7 +36,7 @@ Here are some of my key skills and technologies:
 - **GitHub Repository:** [Link](https://github.com/Mihirchauhan0709/Stock-Market-analysis) 🔗
 
 ## Education 📚
-- **Computer Engineering**, [Mumbai University], [2020-24]
+- **Computer Engineering**, Mumbai University, 2020-24
 - **[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://googlecloud.qwiklabs.com/public_profiles/f4a0a0fd-5ea0-44d9-8734-b180faa9f1b9)**
 
 
