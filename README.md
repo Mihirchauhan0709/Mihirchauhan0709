@@ -5,7 +5,7 @@ I am a passionate data science enthusiast with a strong background in machine le
 
 Connect with me:
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mihir-chauhan-017518208/)
-- Instagram: [Your Instagram Profile](https://www.instagram.com/_mihir__chauhan_/)
+- Instagram: [[Your Instagram Profile](https://github.com/dheereshagrwal/colored-icons/blob/master/svg/instagram.svg)](https://www.instagram.com/_mihir__chauhan_/)
 
 ## Skills
 Here are some of my key skills and technologies:
