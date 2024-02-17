@@ -3,9 +3,11 @@
 ## About Me 👋
 I am a passionate data science enthusiast with a strong background in machine learning and data analysis. I love exploring and working on diverse projects that involve AI, data, and programming. Here's a brief overview of my skills and some of the projects I've worked on.
 
-Connect with me:
+## Connect with me:
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihir-chauhan-017518208/)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_mihir__chauhan_/)
+
+- **Portfolio Website:** [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge)](https://mihirchauhan0709.github.io/Mihir_Chauhan10/) 🔗
 
 ## Skills 💡
 Here are some of my key skills and technologies:
